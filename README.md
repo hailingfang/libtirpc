@@ -42,3 +42,7 @@ The previous release was TIRPCSRC 2.0.
 	an allocated structure where results will be placed by the stub.  See
 	the rpcgen manual page and the rpcgen Programming Guide for details.
 
+
+## Note
+
+Can build without gssapi with option `--disable-gssapi`
